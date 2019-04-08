@@ -1,0 +1,3 @@
+LIBRARY	HookAPILibrary
+EXPORTS
+TrappedApiCall
